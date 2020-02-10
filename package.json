@@ -1,0 +1,20 @@
+{
+  "name": "sleep-calculator",
+  "version": "1.0.0",
+  "description": "js sleep calculator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardphill/sleep-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardphill/sleep-calculator/issues"
+  },
+  "homepage": "https://github.com/edwardphill/sleep-calculator#readme"
+}
